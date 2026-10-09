@@ -1,5 +1,5 @@
 {
-  "model_version": "iris-rf-v1",
+  "model_version": "iris-trust-me-bro-90-percent-v1",
   "feature_order": [
     "sepal_length",
     "sepal_width",
