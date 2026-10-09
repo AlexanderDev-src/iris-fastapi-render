@@ -27,7 +27,7 @@ if __name__ == "__main__":
 
     dump(model, model_path)
     metadata = {
-        "model_version": "iris-rf-v1",
+        "model_version": "iris-trust-me-bro-90-percent-v1",
         "feature_order": feature_keys,
         "target_names": iris.target_names.tolist(),
         "test_accuracy": float(accuracy_score(y_test, y_pred)),
